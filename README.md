@@ -1,3 +1,5 @@
-This my Terminal Setting Json Files
+This my Terminal Profile Setting Json Files
 
-Pleas Install Oh-my-posh & Font before import Files
+
+Note:
+Please Install Oh-my-posh,Themes & Font before import File and Wallpaper
